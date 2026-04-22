@@ -62,10 +62,10 @@ FinStart successfully demonstrates how thoughtful UI/UX design can simplify comp
 
 **📌 Future Enhancements**
 
-- AI-based financial recommendations
-- Investment tracking
-- Multi-device sync (cloud integration)
-- Advanced analytics & reports
+- AI-based financial recommendations.
+- Investment tracking.
+- Multi-device sync (cloud integration).
+- Advanced analytics & reports.
 
 Author
 - Sarthak Bagde
